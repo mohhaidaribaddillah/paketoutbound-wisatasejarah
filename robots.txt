@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /assets/js/
+Disallow: /assets/css/
+
+Sitemap: https://paketoutbound-wisatasejarah.netlify.app/sitemap.xml
+
+# Gemilang Katun Outbound
+# Paket Outbound & Wisata Sejarah Terbaik

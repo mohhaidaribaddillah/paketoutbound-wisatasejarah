@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://paketoutbound-wisatasejarah.netlify.app/</loc>
+    <lastmod>2025-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://paketoutbound-wisatasejarah.netlify.app/assets/images/hero-outbound.png</image:loc>
+      <image:title>Gemilang Katun Outbound - Paket Outbound dan Wisata Sejarah Terbaik</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://paketoutbound-wisatasejarah.netlify.app/blog.html</loc>
+    <lastmod>2025-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://paketoutbound-wisatasejarah.netlify.app/blog-detail-1.html</loc>
+    <lastmod>2025-02-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://paketoutbound-wisatasejarah.netlify.app/assets/images/blog-teambuilding.png</image:loc>
+      <image:title>Panduan Lengkap Team Building Outbound</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://paketoutbound-wisatasejarah.netlify.app/blog-detail-2.html</loc>
+    <lastmod>2025-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://paketoutbound-wisatasejarah.netlify.app/assets/images/blog-rafting.png</image:loc>
+      <image:title>5 Lokasi Rafting Terbaik untuk Outbound Perusahaan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://paketoutbound-wisatasejarah.netlify.app/blog-detail-3.html</loc>
+    <lastmod>2025-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://paketoutbound-wisatasejarah.netlify.app/assets/images/blog-temple.png</image:loc>
+      <image:title>Menjelajahi Candi-Candi Bersejarah di Jawa</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://paketoutbound-wisatasejarah.netlify.app/blog-detail-4.html</loc>
+    <lastmod>2025-02-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://paketoutbound-wisatasejarah.netlify.app/assets/images/blog-camping.png</image:loc>
+      <image:title>Tips Camping Outbound untuk Pemula</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://paketoutbound-wisatasejarah.netlify.app/blog-detail-5.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://paketoutbound-wisatasejarah.netlify.app/assets/images/blog-heritage.png</image:loc>
+      <image:title>Wisata Heritage Indonesia: Museum dan Bangunan Kolonial</image:title>
+    </image:image>
+  </url>
+</urlset>

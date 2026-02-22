@@ -1,0 +1,17 @@
+{
+  "name": "Gemilang Katun Outbound",
+  "short_name": "GK Outbound",
+  "description": "Penyedia paket outbound dan wisata sejarah terbaik di Indonesia. Team building, adventure, dan edukasi sejarah.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c1a12",
+  "theme_color": "#1a5632",
+  "icons": [
+    {
+      "src": "assets/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
